@@ -1,0 +1,1 @@
+# BatchImageShrink-PicCompressorGUI-SmartImageReducer-Compressify
